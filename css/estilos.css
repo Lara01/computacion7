@@ -1,0 +1,17 @@
+<style>
+body {font-family: 'Helvetica Neue',Helvetica,sans-serif; }
+#contenido{
+	width: 80%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#contenido h3 {text-decoration: underline; }
+.subtitulo{
+	color: red;
+	font-style: italic;
+	font-size: 1.2em;
+}
+.centrado {text-align: center; }
+p{line-height: 2.5; }
+</style>
